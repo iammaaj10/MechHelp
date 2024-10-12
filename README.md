@@ -1,0 +1,1 @@
+This project focuses on online mechanic service to the customers on there location . Customers should not worry if there vehical got damage or stopped wherver in the middle of the highway or forest by using our software you can call the mechanic nearby you 
