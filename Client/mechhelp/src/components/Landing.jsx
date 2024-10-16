@@ -21,9 +21,9 @@ const Landing = () => {
         </h1>
         
         
-        <div className='bg-white rounded-md shadow-lg p-4 w-[400px] mt-14 ml-14'> 
+        <div className='bg-white rounded-md shadow-lg p-4 w-[500px] mt-14 ml-10'> 
           <p className='text-md font-medium text-gray-600'>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo placeat omnis vero esse eaque voluptatum iste, doloribus laudantium. Ipsam facilis dolorum omnis, nam incidunt eum neque optio ipsa vel expedita quidem molestiae impedit libero. Quis obcaecati unde officiis nostrum facere?
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo placeat omnis vero esse eaque voluptatum iste, doloribus laudantium. Ipsam facilis dolorum omnis, nam incidunt eum neque optio ipsa vel expedita quidem molestiae impedit libero. Quis obcaecati unde officiis nostrum facere? Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, quis?
           </p>
         </div>
       </div>
@@ -41,10 +41,10 @@ const Landing = () => {
     <div className='justify-center flex'>
       <div >
         <h1 className=' text-2xl font-sans font-bold'>Experience our service and give us the feedback</h1>
-        <div className='bg-white rounded-xl shadow-lg p-7 w-[400px] mt-2 ml-10'>
+        <div className='bg-white rounded-xl shadow-lg p-7 w-[400px] mt-2 ml-16'>
             <p className='items-center text-gray-400 '>Enter the feeback of our services </p>
         </div>
-        <button className='p-3 rounded-2xl bg-blue-700 font-sans mt-4 font-bold ml-48'>
+        <button className='p-3 rounded-2xl bg-blue-700 font-sans mt-4 font-bold ml-52'>
           Submit
         </button>
       </div>
