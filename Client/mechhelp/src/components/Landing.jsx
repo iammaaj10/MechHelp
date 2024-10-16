@@ -42,9 +42,9 @@ const Landing = () => {
       <div >
         <h1 className=' text-2xl font-sans font-bold'>Experience our service and give us the feedback</h1>
         <div className='bg-white rounded-xl shadow-lg p-7 w-[400px] mt-2 ml-10'>
-            <p className='items-center text-gray-300 '>Enter the feeback of our services </p>
+            <p className='items-center text-gray-400 '>Enter the feeback of our services </p>
         </div>
-        <button className='p-3 rounded-2xl bg-blue-700 font-sans mt-4 font-bold ml-44'>
+        <button className='p-3 rounded-2xl bg-blue-700 font-sans mt-4 font-bold ml-48'>
           Submit
         </button>
       </div>
