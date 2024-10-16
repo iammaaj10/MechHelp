@@ -1,12 +1,17 @@
 import React from 'react';
 import Navbar from './Navbar';
-import SignUp from './components/SignUp';
+import Landing from './Landing';
 
 const Home = () => {
   return (
     <>
+      
       <Navbar />
-      <SignUp />
+        
+        <Landing />
+      
+        
+       
     </>
   );
 };

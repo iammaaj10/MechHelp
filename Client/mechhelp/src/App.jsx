@@ -9,11 +9,11 @@ function App() {
 
   return (
     <>
-    <div className='bg-black h-screen'>
+    
       <Home/>
    
 
-    </div>
+    
     
    
     
