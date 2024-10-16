@@ -21,7 +21,7 @@ const Navbar = () => {
            <span>Join Us </span>
            <i class="fa-solid fa-arrow-right"></i>
         </button>
-        <button class="p-2 lg:hidden" onclick="handlemenu()">
+        <button class="p-2 lg:hidden" >
             <i class="fa-solid fa-bars text-gray-600"></i>
         </button>
 
@@ -30,7 +30,7 @@ const Navbar = () => {
                 <a href="#" id="brand" class="flex gap-2 items-center" >
            
         </a> 
-        <button class="p-2 lg:hidden" onclick="handlemenu()">
+        <button class="p-2 lg:hidden" >
             <i class="fa-solid fa-xmark text-gray-500"></i>
         </button>
     </div>
@@ -47,7 +47,7 @@ const Navbar = () => {
         <div class="h-[1px] bg-gray-400 " >
             <button class="mt-6 w-full flex gap-2 items-center border  px-6 py-4 rounded-lg hover:bg-gray-50" >
                 
-               <span>Electronic Developer</span>
+               <span className='font-semibold '>Join Us </span>
               
             </button>
         </div>

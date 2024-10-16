@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import SignUp from './components/SignUp'
+
 import Home from './components/Home'
 
 
@@ -11,7 +11,7 @@ function App() {
     <>
     <div className='bg-black h-screen'>
       <Home/>
-    <SignUp/>
+   
 
     </div>
     
