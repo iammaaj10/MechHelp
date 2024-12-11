@@ -17,7 +17,7 @@ const Navbar = () => {
         <a href="#" className="font-medium hover:text-primary text-white">Profiles</a>
       </div>
 
-      <button className="hidden lg:flex gap-2 items-center border border-gray-300 px-6 py-2 rounded-lg hover:border-gray-600 bg-white">
+      <button className="hidden lg:flex gap-3 items-center border border-gray-300 px-6 py-2 rounded-lg hover:border-gray-600 bg-white">
         <span className="font-semibold">Join Us</span>
         <i className="fa-solid fa-arrow-right"></i>
       </button>
