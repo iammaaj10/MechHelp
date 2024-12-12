@@ -23,7 +23,7 @@ const SignUp = () => {
             
             <input
               type='email'
-              placeholder='Enter the email'
+              placeholder='Enter the Email-Id'
               className='text-black bg-slate-100 p-3 rounded-md'
              
               required
